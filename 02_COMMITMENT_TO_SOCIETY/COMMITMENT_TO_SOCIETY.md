@@ -1,0 +1,25 @@
+# Commitment to Society — REACT_NATIVE
+
+**Company:** Anticloud FZ LLE
+**Model:** PAX L5 Narrow L2 General 27B
+**Project:** REACT_NATIVE | Category: MOBILE
+**Upstream:** https://github.com/facebook/react-native (MIT)
+
+## Overview
+
+This document covers commitment to society for the Anticloud integration of REACT_NATIVE.
+
+Cross-platform mobile framework
+
+## Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into REACT_NATIVE to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+## Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg
